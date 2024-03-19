@@ -1,0 +1,19 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "XZ2Z3K6WAU.com.Intelligration.Vestly",
+          "paths": [
+            "/game/*"
+          ]
+        }
+      ]
+    },
+    "webcredentials": {
+      "apps": [
+        "XZ2Z3K6WAU.com.Intelligration.Vestly"
+      ]
+    }
+  }
+  
