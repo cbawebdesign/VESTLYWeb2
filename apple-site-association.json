@@ -3,7 +3,7 @@
       "apps": [],
       "details": [
         {
-          "appID": "XZ2Z3K6WAU.com.Intelligration.Vestly",
+          "appID": "XZ2Z3K6WAU.com.T3.Vestly",
           "paths": [
             "/game/*"
           ]
@@ -12,7 +12,7 @@
     },
     "webcredentials": {
       "apps": [
-        "XZ2Z3K6WAU.com.Intelligration.Vestly"
+        "XZ2Z3K6WAU.com.T3.Vestly"
       ]
     }
   }
