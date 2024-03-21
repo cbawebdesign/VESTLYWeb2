@@ -80,7 +80,11 @@ const Header = (props) => {
                                             <span>Privacy Policy</span>
                                         </Link>
                                     </li>
-
+                                    <li className="nav-item">
+                                        <Link href="/user" className={props.nav !== undefined && props.nav==="user" ? 'nav-link js-scroll-trigger active' : 'nav-link js-scroll-trigger'}>
+                                            <span>User Account</span>
+                                        </Link>
+                                    </li>
                                     <li className="nav-item search-option">
                                         <a className="nav-link" href="#" onClick={handleSearch}>
                                             <i className="fas fa-search"></i>
